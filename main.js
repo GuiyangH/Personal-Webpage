@@ -1,0 +1,3 @@
+$('.inpage-nav').localScroll();
+
+
